@@ -1,11 +1,21 @@
-baseURL = 'https://wilonweb.github.io/6-starter-hugo-blowfishhugo/'
+baseURL = "https://6TPI/Sponsor-et-E-sport/"
 languageCode = 'fr-fr'
-title = 'Mon blog'
+title = 'E-Sport Sponsor'
 theme = 'blowfish'
 
 [params]
+  logo = "/img/fight.png"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowPostNavLinks = true
   disableFingerprinting = true
   disableSRI = true
+
+
+[params.homepage]
+  layout = "background"              # type de home : hero
+  homepageImage = "img/background.svg"  # image dans assets/img
+  showRecent = true
+  showRecentItems = 6
+
+  
