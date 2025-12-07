@@ -24,7 +24,7 @@ layout: "background"
 
   <p style="max-width: 38rem; margin: 0.75rem auto 0; opacity: 0.85;">
     Bienvenue sur notre portail Street Fighter & E-Sport.<br />
-    Ici on présente les équipes, tournois, résultats et sponsors.
+    Ici on présente les équipes, tournois, résultats et sponsors.55
   </p>
 
 </div>
