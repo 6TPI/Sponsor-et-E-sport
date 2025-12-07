@@ -1,4 +1,5 @@
 # 🚀 GSS Pipeline: Hugo + Blowfish + GitHub Pages
+Cliquer ici pour acceder au [siteweb](https://6tpi.github.io/Sponsor-et-E-sport/)
 
 This repository is a [![**ready-to-use template**](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/webstack-lab/blowfish-ops/generate) for creating a static site using [Hugo](https://gohugo.io/) and the [Blowfish](https://blowfish.page/) theme, automatically deployed via **GitHub Pages**.
 
