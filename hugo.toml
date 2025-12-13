@@ -1,7 +1,11 @@
 baseURL = "https://6TPI/Sponsor-et-E-sport/"
-languageCode = 'fr-fr'
-title = 'E-Sport Sponsor'
-theme = 'blowfish'
+languageCode = "fr-fr"
+title = "Sponsor Geek"
+theme = "blowfish"
+
+# ⚠️ IMPORTANT : ces deux lignes doivent être AU NIVEAU GLOBAL
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
 
 [params]
   logo = "/img/fight.png"
@@ -11,11 +15,52 @@ theme = 'blowfish'
   disableFingerprinting = true
   disableSRI = true
 
+  # Tu peux laisser un slogan global par défaut si tu veux
+  [params.author]
+    name = "Sponageek"
+    image = "/img/fight.png"
+    headline = "Devenez sponsor et boostez un joueur E-sport Street Fighter"
 
-[params.homepage]
-  layout = "background"              # type de home : hero
-  homepageImage = "img/background.svg"  # image dans assets/img
-  showRecent = true
-  showRecentItems = 6
+  [params.homepage]
+    layout = "background"
+    homepageImage = "/img/background.svg"
 
-  
+[params.footer]
+  showThemeBadge = false
+
+# --- MULTILINGUE ---
+[languages]
+
+  # ---- FRANÇAIS ----
+  [languages.fr]
+    languageName = "Français"
+    weight = 1
+    title = "Sponageek"
+    contentDir = "content/fr"
+
+    [languages.fr.params]
+      displayName = "FR"
+      author = { name = "Sponageek", image = "/img/fight.png", headline = "Devenez sponsor et boostez un joueur E-sport Street Fighter" }
+      tagline = "Sponsorise un geek."
+
+    [languages.fr.params.homepage]
+      layout = "background"
+      homepageImage = "/img/background.svg"
+      showRecent = false
+
+  # ---- ENGLISH ----
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "Sponageek"
+    contentDir = "content/en"
+
+    [languages.en.params]
+      displayName = "EN"
+      author = { name = "Sponageek", image = "/img/fight.png", headline = "Become a sponsor and level up a Street Fighter pro player." }
+      tagline = "Sponsor a geek."
+
+    [languages.en.params.homepage]
+      layout = "background"
+      homepageImage = "/img/background.svg"
+      showRecent = false

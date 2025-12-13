@@ -44,5 +44,16 @@ exemple
 pages : https://wilonweb.github.io/test-template/
 code : https://github.com/wilonweb/test-template
 
+### 4 Preaprer la homepage. 
+
+Une fois les images, couleur, police choisie. 
+Pour cela dans le hugo.toml
+
+[params.homepage]
+  layout = "profile"                      # ← important
+  homepageImage = "/img/background.svg"   # fond
+
+
+
 ## TODO 
 Deployer test-template en local

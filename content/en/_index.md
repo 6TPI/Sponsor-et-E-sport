@@ -1,13 +1,13 @@
 ---
-title: "Accueil"
+title: "Home"
 layout: "background"
 ---
 
 <div style="text-align:center; margin: 3rem 0 2rem 0;">
 
   <img
-    src="img/fight.png"
-    alt="Logo E-Sport"
+    src="/img/fight.png"
+    alt="E-Sport Logo"
     style="
       width: 8rem;
       height: 8rem;
@@ -23,8 +23,8 @@ layout: "background"
   </h1>
 
   <p style="max-width: 38rem; margin: 0.75rem auto 0; opacity: 0.85;">
-    Bienvenue sur notre portail Street Fighter & E-Sport.<br />
-    Ici on présente les équipes, tournois, résultats et sponsors.55
+    Welcome to our Street Fighter & E-Sport portal.<br />
+    Here we showcase teams, tournaments, results, and sponsors.
   </p>
 
 </div>

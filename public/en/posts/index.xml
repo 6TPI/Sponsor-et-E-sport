@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sponageek</title>
+    <link>http://localhost:1313/Sponsor-et-E-sport/en/posts/</link>
+    <description>Recent content in Posts on Sponageek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Sponageek</copyright>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Sponsor-et-E-sport/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Street Fighter</title>
+      <link>http://localhost:1313/Sponsor-et-E-sport/en/posts/street-fighter/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Sponsor-et-E-sport/en/posts/street-fighter/</guid>
+      <description>&lt;p&gt;Welcome to this post dedicated to &lt;strong&gt;Street Fighter&lt;/strong&gt;!&lt;br&gt;
+Here you can write your content in English.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
