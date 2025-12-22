@@ -1,0 +1,10 @@
+[params.author]
+name = "Sponageek"
+bio = "E-sport sponsorship & digital marketing"
+
+links = [
+  { github = "https://github.com/wilonweb" },
+  { twitter = "https://twitter.com/wilonweb" },
+  { mastodon = "https://mastodon.social/@wilonweb"},
+  { instagram = "https://www.instagram.com/3wx42/"}
+]

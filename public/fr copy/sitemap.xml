@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr%20copy/</loc>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/Sponsor-et-E-sport/fr/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/Sponsor-et-E-sport/en/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr copy"
+      href="http://localhost:1313/Sponsor-et-E-sport/fr%20copy/"
+    />
+  </url>
+</urlset>

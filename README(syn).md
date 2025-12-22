@@ -1,7 +1,3 @@
-Voici une **structure de menu simple, propre, efficace**, parfaite pour ton concept _Sponageek_ (site pour trouver un sponsor à un joueur de Street Fighter)… **tout en laissant la porte ouverte à tes autres idées** sans que ça parte dans tous les sens.
-
----
-
 # 🌐 **Structure de menu idéale pour Sponageek**
 
 ![Image](https://mma.prnewswire.com/media/2825995/BROOK_Continues_Power_Fighting_Game_Community_Street_Fighter_League_Pro_US.jpg?utm_source=chatgpt.com)
@@ -180,9 +176,3 @@ Tu as dit « j'ai plein d'idées en plus ». Voici une extension **sans casser l
 - _Mieux qu'une startup : un vrai guerrier du Versus Fighting._
     
 
----
-
-# 👉 Dis-moi :
-
-Tu veux un **menu minimaliste**, un **menu premium**, ou un **menu version “business + multi-projet”** pour préparer tes autres idées ?  
-Je peux te générer **la version Blowfish complète** aussi.

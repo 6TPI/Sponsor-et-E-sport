@@ -1,0 +1,10 @@
+{
+  "name": "Sponageek",
+  "bio": "We are a team specialized in E-sport sponsorship and digital marketing. Our mission is to connect brands with the vibrant world of E-sports through innovative sponsorship strategies and cutting-edge digital solutions.",
+  "social": [
+    { "github": "https://github.com/wilonweb" },
+    { "linkedin": "https://linkedin.com/in/wilonweb" },
+    { "twitter": "https://twitter.com/wilonweb" },
+    { "mastodon": "https://mastodon.social/@wilonweb" }
+  ]
+}

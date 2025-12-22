@@ -1,3 +1,6 @@
+ToDO
+Metre les image
+
 ## Commment on définis le hugo.toml pour faire une page d'acceuil fr et une page d'acceuil anglais ? 
 
 [params.author]
@@ -49,3 +52,25 @@ dans hugo.toml
 
 ## Comment créer des articles 
 Pour faire un articles, il faudrau une image en 16:9 CF les images
+
+
+
+## Comment on ajoute les reseaux socieau a la page d'acceuil 
+On créer un fichier pour chaque language du site qu'on ecrit 
+Sponsor-et-E-sport\config\_default\languages.fr.toml 
+Ce fichier contient les liens 
+
+## Comment créer une table de contenue pour les documentation 
+Pour cela il faut que dans le front matter de l'article il y a est 
+`toc: true`
+
+Puis dans la parametres `Sponsor-et-E-sport\config\_default\params.toml`
+placer : 
+```go
+[article]
+showTableOfContents = true
+showWordCount = true
+showReadingTime = true
+```
+
+
