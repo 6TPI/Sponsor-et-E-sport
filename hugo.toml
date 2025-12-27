@@ -19,7 +19,7 @@ defaultContentLanguageInSubdir = true
   [params.author]
     name = "Sponageek"
     image = "/img/fight.png"
-    headline = "Devenez sponsor et boostez un joueur E-sport Street Fighter"
+    headline = "Un site e-sport vu à travers la culture Street Fighter"
 
   [params.homepage]
     layout = "background"
@@ -40,7 +40,7 @@ defaultContentLanguageInSubdir = true
 
     [languages.fr.params]
       displayName = "FR"
-      author = { name = "Sponageek", image = "/img/fight.png", headline = "Devenez sponsor et boostez un joueur E-sport Street Fighter" }
+      author = { name = "Sponageek", image = "/img/fight.png", headline = "Un site e-sport vu à travers la culture Street Fighter" }
       tagline = "Sponsorise un geek."
 
     [languages.fr.params.homepage]
@@ -64,3 +64,30 @@ defaultContentLanguageInSubdir = true
       layout = "background"
       homepageImage = "/img/background.svg"
       showRecent = false
+
+[menu]
+  [[menu.main]]
+    name = "Street Fighter"
+    pageRef = "/street-fighter"
+    weight = 10
+
+  [[menu.main]]
+    name = "E-sport"
+    pageRef = "/esport"
+    weight = 20
+
+  [[menu.main]]
+    name = "Fighting Games"
+    pageRef = "/fighting-games"
+    weight = 30
+
+  [[menu.main]]
+    name = "Culture"
+    pageRef = "/culture"
+    weight = 40
+
+  [[menu.main]]
+    name = "Setup"
+    pageRef = "/setup"
+    weight = 50
+

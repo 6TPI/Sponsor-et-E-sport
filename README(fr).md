@@ -53,7 +53,20 @@ Pour cela dans le hugo.toml
   layout = "profile"                      # ← important
   homepageImage = "/img/background.svg"   # fond
 
+### 5 Les images 
 
+Blowfish recommande une miniature 16:9, environ :
+👉 1280 × 720 px
+ou
+👉 1600 × 900 px (qualité un peu meilleure)
+
+C’est ce qui donne le meilleur rendu dans :
+la page d’accueil (liste des posts)
+les sections / catégories
+les composants card et featured posts
+
+Pourquoi 16:9 ?
+Parce que Blowfish utilise par défaut le mode cover dans les cards, donc une image horizontale large remplit mieux l’espace.
 
 ## TODO 
 Deployer test-template en local

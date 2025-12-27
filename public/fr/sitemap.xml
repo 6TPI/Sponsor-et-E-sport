@@ -17,6 +17,18 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/culture/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/esport/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/fighting-games/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/Sponsor-et-E-sport/fr/posts/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -54,5 +66,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/Sponsor-et-E-sport/fr/modele/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>

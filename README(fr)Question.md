@@ -1,6 +1,18 @@
 ToDO
 Metre les image
 
+
+## Comment mettre la favicon
+mettre une image ou autre sur un generater de favicon https://favicon.io/ 
+Et placer le contenu du zip dans le dossier /static 
+PS si il y a un bug penser a vider le cache avec ctrl+f5
+
+
+## Comment mettre une video a la page d'acceuil avec le layout background 
+
+Grace a l'id et le shortcode ci dessous 
+`{{< youtubeLite id="iEM-J9mFp-w" label="Evo Street Fighter" >}}`
+
 ## Commment on définis le hugo.toml pour faire une page d'acceuil fr et une page d'acceuil anglais ? 
 
 [params.author]
