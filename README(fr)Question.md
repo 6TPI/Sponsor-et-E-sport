@@ -2,6 +2,16 @@ ToDO
 Metre les image
 
 
+## Comment mettre le slogan 
+Sponsor-et-E-sport\public\fr\index.html
+et
+Sponsor-et-E-sport\hugo.toml ( pkoi comment ? )
+  [params.author]
+    name = "Sponageek"
+    image = "/img/fight.png"
+    headline = "Un site e-sport vu à travers la culture Street Fighter"
+
+
 ## Comment mettre la favicon
 mettre une image ou autre sur un generater de favicon https://favicon.io/ 
 Et placer le contenu du zip dans le dossier /static 
@@ -64,8 +74,6 @@ dans hugo.toml
 
 ## Comment créer des articles 
 Pour faire un articles, il faudrau une image en 16:9 CF les images
-
-
 
 ## Comment on ajoute les reseaux socieau a la page d'acceuil 
 On créer un fichier pour chaque language du site qu'on ecrit 

@@ -6,8 +6,108 @@
     <description>Recent content in Modeles on Sponageek</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <copyright>© 2025 Sponageek</copyright>
+    <copyright>© 2026 Sponageek</copyright>
     <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Sponsor-et-E-sport/fr/modele/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Actu — {Sujet}</title>
+      <link>http://localhost:1313/Sponsor-et-E-sport/fr/modele/actualite/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Sponsor-et-E-sport/fr/modele/actualite/</guid>
+      <description>{Quoi / qui / quand en 1 phrase}</description>
+      
+    </item>
+    
+    <item>
+      <title>Analyse — {Sujet}</title>
+      <link>http://localhost:1313/Sponsor-et-E-sport/fr/modele/analyse/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Sponsor-et-E-sport/fr/modele/analyse/</guid>
+      <description>{Thèse / angle en 1 phrase}</description>
+      
+    </item>
+    
+    <item>
+      <title>Équipe — {Nom de l’équipe}</title>
+      <link>http://localhost:1313/Sponsor-et-E-sport/fr/modele/equipe/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Sponsor-et-E-sport/fr/modele/equipe/</guid>
+      <description>{Positionnement en 1 phrase}</description>
+      
+    </item>
+    
+    <item>
+      <title>Étude de cas — {Marque/Équipe} x {Événement}</title>
+      <link>http://localhost:1313/Sponsor-et-E-sport/fr/modele/etude-de-cas/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Sponsor-et-E-sport/fr/modele/etude-de-cas/</guid>
+      <description>{Résultat principal en 1 phrase}</description>
+      
+    </item>
+    
+    <item>
+      <title>Événement — {Nom de l’événement} {Année}</title>
+      <link>http://localhost:1313/Sponsor-et-E-sport/fr/modele/evenement/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Sponsor-et-E-sport/fr/modele/evenement/</guid>
+      <description>{Résumé 1 phrase}</description>
+      
+    </item>
+    
+    <item>
+      <title>FAQ — {Sujet}</title>
+      <link>http://localhost:1313/Sponsor-et-E-sport/fr/modele/faq/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Sponsor-et-E-sport/fr/modele/faq/</guid>
+      <description>{À qui s’adresse la FAQ}</description>
+      
+    </item>
+    
+    <item>
+      <title>Guide — {Sujet}</title>
+      <link>http://localhost:1313/Sponsor-et-E-sport/fr/modele/guide/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Sponsor-et-E-sport/fr/modele/guide/</guid>
+      <description>{Promesse du guide en 1 phrase}</description>
+      
+    </item>
+    
+    <item>
+      <title>Modèles — bibliothèque</title>
+      <link>http://localhost:1313/Sponsor-et-E-sport/fr/modele/readme/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Sponsor-et-E-sport/fr/modele/readme/</guid>
+      <description>&lt;p&gt;Ce dossier contient des &lt;strong&gt;templates réutilisables&lt;/strong&gt;. Copie-colle un modèle dans la bonne section (evenement, analyse, etc.), puis remplace les &lt;code&gt;{...}&lt;/code&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Ressource — {Sujet}</title>
+      <link>http://localhost:1313/Sponsor-et-E-sport/fr/modele/ressource/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Sponsor-et-E-sport/fr/modele/ressource/</guid>
+      <description>{Ce que contient la ressource}</description>
+      
+    </item>
+    
+    <item>
+      <title>Sponsor — {Nom de la marque}</title>
+      <link>http://localhost:1313/Sponsor-et-E-sport/fr/modele/partenaire-sponsor/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Sponsor-et-E-sport/fr/modele/partenaire-sponsor/</guid>
+      <description>{Pourquoi cette marque est pertinente pour l’e-sport}</description>
+      
+    </item>
     
   </channel>
 </rss>

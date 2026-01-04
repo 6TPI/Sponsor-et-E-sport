@@ -19,7 +19,6 @@ defaultContentLanguageInSubdir = true
   [params.author]
     name = "Sponageek"
     image = "/img/fight.png"
-    headline = "Un site e-sport vu à travers la culture Street Fighter"
 
   [params.homepage]
     layout = "background"
@@ -40,7 +39,7 @@ defaultContentLanguageInSubdir = true
 
     [languages.fr.params]
       displayName = "FR"
-      author = { name = "Sponageek", image = "/img/fight.png", headline = "Un site e-sport vu à travers la culture Street Fighter" }
+      author = { name = "Sponageek", image = "/img/fight.png", headline = "Sponsor et e-sport vu à travers la culture Street Fighter" }
       tagline = "Sponsorise un geek."
 
     [languages.fr.params.homepage]

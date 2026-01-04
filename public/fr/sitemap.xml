@@ -43,6 +43,10 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/setup/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/Sponsor-et-E-sport/fr/posts/street-fighter/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -57,6 +61,10 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/street-fighter/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/Sponsor-et-E-sport/fr/evenements/evo-france-2026/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url>
@@ -65,7 +73,47 @@
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/modele/actualite/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/modele/analyse/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/modele/equipe/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/modele/etude-de-cas/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/modele/evenement/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/modele/faq/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/modele/guide/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/Sponsor-et-E-sport/fr/modele/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/modele/readme/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/modele/ressource/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/Sponsor-et-E-sport/fr/modele/partenaire-sponsor/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
