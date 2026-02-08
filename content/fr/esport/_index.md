@@ -5,7 +5,9 @@ date: 2025-02-10
 slug: "esport"
 thumbnail: "/img/thumbnails/esport.jpg"
 draft: false
+layout: "list"
 ---
+
 
 ## Le e-sport comme écosystème global
 

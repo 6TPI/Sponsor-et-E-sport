@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sponageek</title>
+    <link>http://localhost:1313/Sponsor-et-E-sport/ja/posts/</link>
+    <description>Recent content in Posts on Sponageek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>© 2026 Sponageek</copyright>
+    <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Sponsor-et-E-sport/ja/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ストリートファイター</title>
+      <link>http://localhost:1313/Sponsor-et-E-sport/ja/posts/street-fighter/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/Sponsor-et-E-sport/ja/posts/street-fighter/</guid>
+      <description>&lt;p&gt;ようこそ、&lt;strong&gt;ストリートファイター&lt;/strong&gt; の記事へ。
+競技シーンの歴史や名勝負を通して、コミュニティの熱量とスポンサーの役割を簡単に紹介します。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;シーンの歩みと代表的な大会&lt;/li&gt;
+&lt;li&gt;人気プレイヤーとチームの動き&lt;/li&gt;
+&lt;li&gt;企業スポンサーが支える仕組み&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

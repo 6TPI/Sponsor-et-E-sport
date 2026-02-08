@@ -1,0 +1,1 @@
+footer.powered_by: "提供: {{ .Hugo }} + {{ .Theme }} · Sponageek"

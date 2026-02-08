@@ -12,6 +12,11 @@
     />
     <xhtml:link
       rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/Sponsor-et-E-sport/ja/"
+    />
+    <xhtml:link
+      rel="alternate"
       hreflang="en"
       href="http://localhost:1313/Sponsor-et-E-sport/en/"
     />
@@ -23,6 +28,11 @@
       rel="alternate"
       hreflang="fr"
       href="http://localhost:1313/Sponsor-et-E-sport/fr/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/Sponsor-et-E-sport/ja/posts/"
     />
     <xhtml:link
       rel="alternate"

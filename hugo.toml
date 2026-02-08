@@ -3,7 +3,7 @@ languageCode = "fr-fr"
 title = "Sponsor Geek"
 theme = "blowfish"
 
-# ⚠️ IMPORTANT : ces deux lignes doivent être AU NIVEAU GLOBAL
+# IMPORTANT : ces deux lignes doivent être AU NIVEAU GLOBAL
 defaultContentLanguage = "fr"
 defaultContentLanguageInSubdir = true
 
@@ -26,11 +26,13 @@ defaultContentLanguageInSubdir = true
 
 [params.footer]
   showThemeBadge = false
+  #showThemeAttribution = false
+
 
 # --- MULTILINGUE ---
 [languages]
 
-  # ---- FRANÇAIS ----
+  # ---- FRANCAIS ----
   [languages.fr]
     languageName = "Français"
     weight = 1
@@ -64,6 +66,23 @@ defaultContentLanguageInSubdir = true
       homepageImage = "/img/background.svg"
       showRecent = false
 
+  # ---- JAPANESE ----
+  [languages.ja]
+    languageName = "日本語"
+    weight = 3
+    title = "Sponageek"
+    contentDir = "content/ja"
+
+    [languages.ja.params]
+      displayName = "JA"
+      author = { name = "Sponageek", image = "/img/fight.png", headline = "ストリートファイターの文化とeスポーツのスポンサーシップを紹介します。" }
+      tagline = "ゲーマーをスポンサーに。"
+
+    [languages.ja.params.homepage]
+      layout = "background"
+      homepageImage = "/img/background.svg"
+      showRecent = false
+
 [menu]
   [[menu.main]]
     name = "Street Fighter"
@@ -89,4 +108,3 @@ defaultContentLanguageInSubdir = true
     name = "Setup"
     pageRef = "/setup"
     weight = 50
-

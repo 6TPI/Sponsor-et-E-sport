@@ -1,0 +1,1 @@
+footer.powered_by: "propulsé par © {{ .Hugo }} + {{ .Theme }} — Sponageek"

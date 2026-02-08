@@ -27,4 +27,6 @@ layout: "background"
     Here we showcase teams, tournaments, results, and sponsors.
   </p>
 
+  {{< youtubeLite id="iEM-J9mFp-w" label="Evo Street Fighter" >}}
+
 </div>

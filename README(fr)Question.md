@@ -1,19 +1,35 @@
 ToDO
 Metre les image
 
+## Comment on ajoute le japonais                                                                                   
+On ajoute la langue dans hugo.toml (bloc languages.ja + contentDir = "content/ja"), 
+puis on crée les pages dans content/ja/ (ex : content/ja/_index.md et content/ja/posts/).   
+ajout d'un fallback dans assets/css/custom.css
+ajout de i18n/ja.yaml sert aux textes “fixes” du thème (ex. le footer “propulsé par…”, libellés d’interface).      
+
+## Comment modifier le footer 
+Pour enlever le power by hugo et blowfish 
+soit dand hugo.toml
+[params.footer]
+showThemeAttribution = false
+ou pour le modifier, trouver le footer dans 
+Sponsor-et-E-sport\i18n\fr.yaml 
+
+
 
 ## Comment mettre le slogan 
-Sponsor-et-E-sport\public\fr\index.html
+Sponsor-et-E-sport\public\fr\index.html ( généré au build )
 et
-Sponsor-et-E-sport\hugo.toml ( pkoi comment ? )
-  [params.author]
-    name = "Sponageek"
-    image = "/img/fight.png"
-    headline = "Un site e-sport vu à travers la culture Street Fighter"
+Sponsor-et-E-sport\hugo.toml 
+
+    [languages.fr.params]
+      displayName = "FR"
+      author = { name = "Sponageek", image = "/img/fight.png", headline = "55 Un site e-sport vu à travers la culture Street Fighter" }
+      tagline = "Sponsorise un geek."
 
 
 ## Comment mettre la favicon
-mettre une image ou autre sur un generater de favicon https://favicon.io/ 
+mettre une image ou autre sur un generateur de favicon https://favicon.io/ 
 Et placer le contenu du zip dans le dossier /static 
 PS si il y a un bug penser a vider le cache avec ctrl+f5
 
@@ -24,7 +40,6 @@ Grace a l'id et le shortcode ci dessous
 `{{< youtubeLite id="iEM-J9mFp-w" label="Evo Street Fighter" >}}`
 
 ## Commment on définis le hugo.toml pour faire une page d'acceuil fr et une page d'acceuil anglais ? 
-
 [params.author]
   name = "Sponageek"
   image = "/img/fight.png"   # ← TON image
